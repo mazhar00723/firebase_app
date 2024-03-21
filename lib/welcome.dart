@@ -72,9 +72,6 @@ class _WelcomeState extends State<Welcome> {
               child: Text('Sign up'),
             ),
           ),
-
-
-
         ],
       ),
     );
